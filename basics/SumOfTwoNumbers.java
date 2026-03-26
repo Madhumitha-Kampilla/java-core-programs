@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Main{
+public class SumOfTwoNumbers {
     public static void main(String[] args) {
         Scanner num = new Scanner(System.in);
         int a = num.nextInt();
