@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Main{
+public class StringRepetitionThree {
     public static void main(String[] args){
         Scanner str = new Scanner(System.in);
         String word = str.nextLine();
