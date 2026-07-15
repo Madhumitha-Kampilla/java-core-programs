@@ -1,68 +1,81 @@
-# Java Core Programs 🚀
+# Java Core Programs ☕
 
-This repository contains my practice programs covering fundamental Java concepts.
-It demonstrates problem-solving skills and understanding of core programming topics.
+A comprehensive collection of Java programs created while learning and practicing Core Java concepts for Software Development Engineer interviews.
+
+## 📌 About
+
+This repository contains well-organized Java programs covering fundamental and advanced programming concepts. It demonstrates consistent coding practice and problem-solving using Java.
 
 ---
 
-## 📂 Topics Covered
+## 📚 Topics Covered
 
-### 🔹 Basics
+### Core Java
+- Variables & Data Types
+- Operators
+- Control Statements
+- Loops
+- Methods
+- Arrays
+- Strings
 
-* Input/Output operations
-* Arithmetic operations
-* Conditional statements
-* Loops
+### Object-Oriented Programming
+- Classes & Objects
+- Inheritance
+- Polymorphism
+- Abstraction
+- Encapsulation
 
-### 🔹 Arrays
+### Collections Framework
+- ArrayList
+- LinkedList
+- HashMap
+- HashSet
+- TreeMap
+- PriorityQueue
 
-* Array indexing
-* Reverse array
-* Sum / Average
-* Matrix operations
+### Exception Handling
+- Try-Catch
+- Throws
+- Custom Exceptions
 
-### 🔹 Hashing (HashMap / HashSet)
+### Java 8 Features
+- Lambda Expressions
+- Stream API
+- Optional
 
-* Add / Update / Remove elements
-* Count occurrences
-* Remove duplicates
-* Map operations
+### Multithreading
+- Thread Class
+- Runnable Interface
+- Synchronization
 
-### 🔹 OOP (Object-Oriented Programming)
-
-* Classes and Objects
-* Encapsulation (Getters & Setters)
-* Example: Vehicle, Bank Account
-
-### 🔹 Exception Handling
-
-* Try-Catch blocks
-* Handling runtime errors
-
-### 🔹 Date & Time
-
-* Parsing dates
-* Formatting dates
-* Adding years to date
+### Problem Solving
+- Number Programs
+- Pattern Programs
+- String Problems
+- Array Problems
 
 ---
 
 ## 🛠 Technologies Used
 
-* Java
-* Scanner (Input handling)
-* Java Collections Framework
-* Java Time API
+- Java
+- IntelliJ IDEA
+- Git
+- GitHub
 
 ---
 
 ## 🎯 Purpose
 
-This repository is created to strengthen my core Java skills and prepare for software development roles.
+This repository showcases my continuous learning journey in Java programming and serves as a reference for coding interviews and software development fundamentals.
 
 ---
 
-## 📌 Note
+## 👩‍💻 Author
 
-This is a learning-based repository with simple and clear implementations of core concepts.
+**Madhumitha Kampilla**
+
+- GitHub: https://github.com/Madhumitha-Kampilla
+- LinkedIn: https://linkedin.com/in/kampillamadhumitha14
 
